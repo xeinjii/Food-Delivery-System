@@ -1,0 +1,380 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+
+
+.image{
+    width: 50px;
+    height: auto;
+}
+.login-page {
+    width: 360px;
+    padding: 6% 0 0;
+    margin: auto;
+  }
+
+.register-form{
+  position: relative;
+  background: #FFFFFF;
+  z-index: 1;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 40px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+
+.form .in {
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+
+  .form .inn{
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+
+  .qw{
+    margin-left: 7px;
+  }
+
+  .qw input{
+      cursor: pointer;
+  }
+
+  .form .qa {
+    text-transform: uppercase;
+    outline: 0;
+    background: #5169d7;
+    width: 100%;
+    border-radius: 28px;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+  .form .qa:hover,.form .qa:active,.form .qa:focus {
+    background: #e4b9b9;
+  }
+
+  .innn{
+    width: 290px;
+    height: 32px;
+    background: #f2f2f2;
+    border-radius: 28px;
+    outline: none;
+    padding-left: 9px;  
+    cursor: pointer;
+  }
+
+  .innn option{
+    cursor: pointer;
+  }
+  
+  
+
+  .form header{
+    font-size: 30px;
+    margin-left: 70px;
+    font-weight: 500;
+  }
+
+  .loginn-page {
+    width: 360px;
+    padding: 3% 0 0;
+    margin: auto;
+  }
+
+  .login-form{
+    position: relative;
+    background: #FFFFFF;
+    z-index: 1;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 40px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+  
+  .formm .in{
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+
+  .formm .qa{
+    text-transform: uppercase;
+    outline: 0;
+    background: #5169d7;
+    width: 100%;
+    border-radius: 28px;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+
+  .formm .qa:hover,.formm .qa:active,.formm .qa:focus {
+    background: #e4b9b9;
+  }
+
+  .formm header{
+    font-size: 30px;
+    margin-left: 100px;
+    font-weight: 500;
+  }
+
+  .forgotp{
+    margin-left: 50px;
+  }
+
+  .forgotp:hover,.forgotp:active,.forgotp:focus {
+    text-decoration: underline;
+  }
+
+  .forgot-page{
+    width: 360px;
+    padding: 3% 0 0;
+    margin: auto;
+  }
+
+  .forgot-form{
+    position: relative;
+    background: #FFFFFF;
+    z-index: 1;
+    max-width: 360px;
+    margin: 0 auto 100px;
+    padding: 40px;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+  }
+
+  .formmmm .innnn{
+    outline: 0;
+    background: #f2f2f2;
+    width: 100%;
+    border: 0;
+    margin: 0 0 15px;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 14px;
+  }
+
+  .forgot-page header{
+    font-size: 30px;
+    margin-left: 55px;
+    font-weight: 500;
+  }
+ 
+  .forgot-form .pa{
+    text-transform: uppercase;
+    outline: 0;
+    background: #5169d7;
+    width: 100%;
+    border-radius: 28px;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+
+  .forgot-form .pa:hover,forgot-form .pa:active,.forgot-form .pa:focus {
+    background: #e4b9b9;
+  }
+.edit-page{
+    width: 360px;
+    padding: 6% 0 0;
+    margin: auto;
+}
+
+.edit{
+  position: relative;
+  background: #FFFFFF;
+  z-index: 1;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 40px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.edit-page header{
+  font-size: 30px;
+  margin-left: 95px;
+  font-weight: 500;
+}
+
+.checkout{
+  margin-left: 140px;
+}
+
+.text-align{
+  text-align: left;
+}
+
+.align{
+  text-decoration: underline;
+}
+
+.profile{
+  padding-right: 30px;
+}
+
+.search{
+  width: 450px;
+  padding: 2% 0 0;
+  margin: auto;
+}
+
+.foot{
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+
+.cancel{
+  margin-right: 40px;
+}
+
+.productpic{
+  margin: auto;
+}
+
+.dis{
+ width: 500px;
+ height: 400px;
+position: fixed;
+margin-top: 140px ;
+margin-left: 200px;
+border-radius: 24px;
+}
+
+.can{
+  width: 120px;
+  height: 40px;
+  position: fixed;
+}
+
+.Search{
+ margin-left: 240px;
+ width: 500px;
+}
+
+.add-cart{
+  margin-left: 165px;
+}
+
+.proc{
+  margin-top: 10px;
+  margin-left: 100px;
+  position: fixed;
+}
+
+.bck{
+  width: 190px;
+  margin-top: 10px;
+  margin-left: 520px;
+}
+
+.almodal{
+  margin-top: 190px;
+}
+
+.checkout-page{
+  width: 360px;
+  padding: -1% 0 0;
+  margin: auto;
+ 
+}
+
+.check-out{
+  position: relative;
+  background: #FFFFFF;
+  z-index: 1;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 40px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.ckk{
+  width: 130px;
+}
+
+.ca{
+  width: 100px;
+}
+
+.sel{
+  width: 280px;
+  height: 45px;
+  border-radius: 6px;
+  background: #FFFFFF;
+}
+
+
+.message-page{
+  width: 360px;
+  padding: 6% 0 0;
+  margin: auto;
+}
+
+.message{
+  position: relative;
+  background: #FFFFFF;
+  z-index: 1;
+  max-width: 360px;
+  margin: 0 auto 100px;
+  padding: 40px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+
+.order{
+  font-size: 30px;
+  margin-left: 100px;
+}
+
+.orer{
+  margin-left: 85px;
+  font-size: 22px;
+}
+
+.foott{
+  margin-top: 40px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
